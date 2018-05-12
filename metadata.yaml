@@ -1,0 +1,37 @@
+_repo: Dialogues-in-French-and-English_29214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caxton, William
+    deathdate: 1491
+    gutenberg_agent_id: '3627'
+    url: http://www.gutenberg.org/2009/agents/3627
+    wikipedia: http://en.wikipedia.org/wiki/William_Caxton
+  editor:
+    agent_name: Bradley, Henry
+    birthdate: 1845
+    deathdate: 1923
+    gutenberg_agent_id: '33768'
+    url: http://www.gutenberg.org/2009/agents/33768
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2009-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29214'
+  lccn: '01022751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialogues, French'
+- !lcsh 'French language -- Conversation and phrase books -- Early works to 1800'
+- !lcsh 'English language -- Conversation and phrase books -- Early works to 1800'
+- !lcc 'PE'
+- !lcsh 'Dialogues, English (Middle)'
+title: Dialogues in French and English
+url: http://www.gutenberg.org/ebooks/29214
